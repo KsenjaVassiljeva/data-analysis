@@ -18,10 +18,10 @@
 - Визуализация данных с помощью графика
 
 ## Скриншот
-![График продаж](images/analysis.png)
+![График продаж](image/analysis.png)
 
 # Демо
-![процесс](images/demo4.gif)
+![процесс](image/demo4.gif)
 
 ## Как запустить
 
@@ -31,5 +31,6 @@
 pip install pandas matplotlib
 
 python sales_analysis.py
+
 
 
